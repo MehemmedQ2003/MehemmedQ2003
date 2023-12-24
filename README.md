@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehemmedq2003" alt="mehemmedq2003" /></a> </p>
 
-- 🌱 I’m currently learning *HTML, CSS, JAVASCRIPT, REACT, REDUX*
+- 🌱 I’m currently learning *HTML, CSS, SASS(SCSS), RESPONSIVE Design, JAVASCRIPT, GIT, GITHUB, REACT, REDUX, MATERIAL UI*
 
 - 📫 How to reach me **mehemmed.qardasov2003@gmail.com**
 
