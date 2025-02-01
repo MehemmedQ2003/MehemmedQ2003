@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Gardashov</h1>
-<h3 align="center">Frontend & PHP Backend Developer from Azerbaijan</h3>
+<h3 align="center">Frontend & PHP Backend Developer</h3>
+![](https://github-profile-trophy.vercel.app/?username=metinqardasov11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 🌱 I’m currently learning **I’m currently learning HTML, CSS, SASS(SCSS), RESPONSIVE Design, JAVASCRIPT, GITHUB, REACT, MATERIAL UI, PHP, JSON**
 
