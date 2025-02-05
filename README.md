@@ -12,8 +12,7 @@
 </a>
 <a href="https://www.facebook.com/people/Qarda%C5%9Fov-M%C9%99h%C9%99mm%C9%99d/pfbid026RA6yURsE6HzQt3bX2xkqRG62f8sgj7SESKUQK2g2XSp18G3XkJP4GWcccEDb6fql/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="matin gardashov" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/qardasovmehemmed11//" target="blank">
+</a><a href="https://www.instagram.com/qardasovmehemmed11//" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://github.com/MehemmedQ2003" target="blank">
@@ -23,7 +22,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
@@ -31,8 +31,7 @@
 </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+</a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
@@ -64,7 +63,7 @@
 </a>
  </p>
 
-
+<div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -79,6 +78,7 @@
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</div>
 
 <br><br>
 # GitHub Stats:
