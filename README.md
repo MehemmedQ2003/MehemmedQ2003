@@ -84,4 +84,4 @@
 # GitHub Stats:
 | GitHub Stats | GitHub Streak Stats | Top Languages |
 | ---------------------- | ---------------------------- | ------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=mehemmedq2003&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com?user=mehemmedq2003&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmedq2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=mehemmedq2003&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmedq2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
