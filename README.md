@@ -5,7 +5,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=elvingasimov1992&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehemmed-qardasov-6ba49a235/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Gardashov" height="30" width="40" />
@@ -17,7 +17,7 @@
 </a>
 <a href="https://github.com/elvingasimov1992" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
+</a> -->
 
 </p>
 
