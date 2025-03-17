@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gardashov</h1>
+<h1 align="center">Hi 👋, I'm Elvin Gasimov</h1>
 <h3 align="center">A Frontend(REACT) and Backend(PHP) developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MehemmedQ2003&label=Profile%20views&color=0e75b6&style=flat" alt="MehemmedQ2003" /> </p>
