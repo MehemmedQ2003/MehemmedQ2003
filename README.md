@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gasimov</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Gardashov</h1>
 <h3 align="center">A Frontend(REACT) and Backend(PHP) developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvingasimov1992&label=Profile%20views&color=0e75b6&style=flat" alt="elvingasimov1992" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehemmedq2003&label=Profile%20views&color=0e75b6&style=flat" alt="elvingasimov1992" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=elvingasimov1992&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=muhammedq2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 </a><a href="https://www.instagram.com/qardasovmehemmed11//" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
-<a href="https://github.com/elvingasimov1992" target="blank">
+<a href="https://github.com/mehemmedq2003" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a> -->
 
