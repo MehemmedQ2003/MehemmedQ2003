@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gasimov</h1>
+<h1 align="center">Hi 👋, I'm MehemmedQ2003</h1>
 <h3 align="center">A Frontend(REACT) and Backend(PHP) developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehemmedq2003&label=Profile%20views&color=0e75b6&style=flat" alt="elvingasimov1992" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=muhammedq2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mehammedq2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
