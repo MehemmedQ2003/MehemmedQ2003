@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MehemmedQ2003</h1>
 <h3 align="center">A Frontend(REACT) and Backend(PHP) developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehemmedq2003&label=Profile%20views&color=0e75b6&style=flat" alt="elvingasimov1992" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehemmedq2003&label=Profile%20views&color=0e75b6&style=flat" alt="mehemmedq2003" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=mehammedq2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -84,4 +84,4 @@
 # GitHub Stats:
 | GitHub Stats || Top Languages |
 | ---------------------- | ---------------------------- | ------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=elvingasimov1992&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com?user=elvingasimov1992&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvingasimov1992&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=mehemmedq2003&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com?user=mehemmedq2003&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j[,%20Y]&order=3) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmedq2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
