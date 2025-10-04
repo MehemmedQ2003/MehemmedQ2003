@@ -43,6 +43,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="next" width="40" height="40"/>
+</a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
 </a>
@@ -72,6 +75,7 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/TypeScript-%232F73B5.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/next-%2361DAFB.svg?style=for-the-badge&logo=next&logoColor=white" alt="Next">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/redux-%234A90E2.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
