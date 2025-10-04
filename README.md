@@ -5,22 +5,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=mehammedq2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehemmed-qardasov-6ba49a235/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Gardashov" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/people/Qarda%C5%9Fov-M%C9%99h%C9%99mm%C9%99d/pfbid026RA6yURsE6HzQt3bX2xkqRG62f8sgj7SESKUQK2g2XSp18G3XkJP4GWcccEDb6fql/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="matin gardashov" height="30" width="40" />
-</a><a href="https://www.instagram.com/qardasovmehemmed11//" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://github.com/mehemmedq2003" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a> -->
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,7 +15,8 @@
 </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
@@ -44,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="next" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
@@ -64,7 +49,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain-wordmark.svg" alt="postman" width="40" height="40"/>
 </a>
- </p>
+</p>
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -75,7 +60,7 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/TypeScript-%232F73B5.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/next-%2361DAFB.svg?style=for-the-badge&logo=next&logoColor=white" alt="Next">
+<img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/redux-%234A90E2.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -85,6 +70,7 @@
 </div>
 
 <br><br>
+
 # GitHub Stats:
 | GitHub Stats || Top Languages |
 | ---------------------- | ---------------------------- | ------------------------ |
